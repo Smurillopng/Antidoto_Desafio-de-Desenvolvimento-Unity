@@ -1,0 +1,3889 @@
+fileFormatVersion: 2
+guid: 4ea6f972cef3add469c7f33f5c10d5ee
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 552
+        width: 140
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79875f2bb37b38a4cb6b2340b6c44748
+      internalID: 1628362263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 677
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3228d56cc5b85a4a863359d915a9564
+      internalID: 1142870716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 674
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7bc224f9c94e64da7c8921db3d3ed0
+      internalID: -112204810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 674
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896a311f81bbfb04e9b3bae98b319b41
+      internalID: 1211713566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_4
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 684
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17906de34614a24382dce3bd16597f8
+      internalID: -1950655653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 684
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d01da25525763a46bea78c1c9676b28
+      internalID: 1658511798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_6
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 684
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cdbff45241a43409855f478e5f6162
+      internalID: 1784008180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_7
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 682
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ecb226bf0a1404f8883abc751540e1
+      internalID: 804196299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_8
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 682
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6cb562f8d805f4478257369acb543f2
+      internalID: -313765641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_9
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 682
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb636e19274cb5943b7ca2cd560a6259
+      internalID: -1259213644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_10
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 681
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156a06da9576a3e4a8dde16d50ba493e
+      internalID: -1993291165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_11
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 683
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee91eee299d8bb2458b7191780cf50c7
+      internalID: -1723294842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_12
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 632
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97cb89ec92378b84892de0e795403b27
+      internalID: 2135698413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_13
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 632
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c2d2cd88896ed24abe4b6ec0ced46d4
+      internalID: 1540505735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_14
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 632
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97af76abbd7c3874fad75befa86692d3
+      internalID: -327546561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_15
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 632
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242cdfc53b9b8864c94414b085ed194d
+      internalID: -2000443411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_16
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 641
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb931a996309724f8212eb3673ad960
+      internalID: -1305473151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_17
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 641
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30e8e580427fc2449ac704ca2264f00
+      internalID: 664275537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_18
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 641
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697b3cdd4636ee640a7805d96f84de5a
+      internalID: -2093754596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_19
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 645
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53eb449644803184681ca91ceaf3b3e7
+      internalID: 564882597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_20
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 645
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b9553bc7316f441819c79b18a9e78d
+      internalID: 1013669802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_21
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 643
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e234128ffc0a34b811826ede9cbbcd
+      internalID: 1845345863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_22
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 641
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44c6b7632fa3e40439fd430e4705054b
+      internalID: -361744051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_23
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 642
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57dc3c18b42473f43ad340fc94084ddc
+      internalID: -641182252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_24
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 604
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b049fea37cf9f9a459d7d39af925f794
+      internalID: 2105537670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_25
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 604
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a16ced8bda70b54c9a308edc0a97840
+      internalID: -177030418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_26
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 604
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d9a96ca11dd6e45bee74e48f71b37c
+      internalID: 126197481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_27
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 602
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5b6ec8e3ef33246b81743a29bee829
+      internalID: 1472925680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_28
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 602
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77cd89b1c4fa8b3488d85652db0a7ab7
+      internalID: -145001526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_29
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 602
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efd7ce80105dfdb4f86f08ad5564f8d2
+      internalID: -1434323855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_30
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 607
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d7fb7d562c7dc46bcc89502e9094f5
+      internalID: -1096301968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_31
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 607
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7f6f4d1ed8b3148bf35cca381e0b98
+      internalID: 308498742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_32
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 566
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d3ed2c644070fa4dad479b59e3af963
+      internalID: 1679372822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_33
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 560
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b343d588dc87449958cd2ae5c8e4e4
+      internalID: -1962034423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_34
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 560
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77df3b443b8ac6448b4ba4c27c2e476c
+      internalID: 573551911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_35
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 566
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb6886c6de901f4d9fb0d31f034a06a
+      internalID: -62024075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_36
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 561
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44d7e55dda9c3e41b8a90a9cec02635
+      internalID: 145059837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_37
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 569
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd8c4e679e768a46b9078ca3dd3e131
+      internalID: -1596058545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_38
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 568
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc59142039fdb0e4caae157065b84bd9
+      internalID: 199841589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_39
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 574
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6828191e2093d5b4d9d619a5aa19565b
+      internalID: 213895655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_40
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 572
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e95a135158c25448069fd51f9605da
+      internalID: -1178988799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_41
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 564
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e90d17c0daaf384798aa6a47649052f
+      internalID: 354191876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_42
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 515
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3af91a14468c24b848639cd16fd0d5
+      internalID: 768497063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_43
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 535
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf66a91aa993e704bafce04cf5235805
+      internalID: -894739794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_44
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 546
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d996e66c9741a4291f485cd207290d
+      internalID: 915470600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_45
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 537
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afb2124bf18aff04fa9b38f49ff5dd19
+      internalID: 215105623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_46
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 486
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483baac5b4cfd6442a186d6db8f09476
+      internalID: 667146390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_47
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 486
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf0392a9d2d1e854db9a0ba9d835afb3
+      internalID: -752477338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_48
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 491
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11d40759d0c79cf4ea87db60093200f0
+      internalID: -1890094538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_49
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 491
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60546eaf16603964e9f490099b958fdf
+      internalID: -923096736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_50
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 486
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3caa3607737abce4198f5d59e519fe16
+      internalID: -255088045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_51
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 488
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57170ef75e89583429fe0b8e4b4f8d45
+      internalID: -1569235286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_52
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 488
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c86f9187db28ddf48bbd2c64a39099d5
+      internalID: -1974537045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_53
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 486
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b48ac2a96dae34d8d49859eb10a9f7
+      internalID: 1661682422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_54
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 486
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86b45ec838125949bc077a49ee26c3c
+      internalID: -1116978905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_55
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 486
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9add8c9f304dc74cb87ecab8f025ac9
+      internalID: 1633058685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_56
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 487
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571c98479f310ea4c96ac5c3ee554a17
+      internalID: -2091025142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_57
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 485
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a41bb290378f49b4787fd594108999a1
+      internalID: -513417805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_58
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 485
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05cf40071ee6c044f9810178295a4e6d
+      internalID: -561162712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_59
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 486
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b8a0b7ed051644d914dcd81d518860
+      internalID: 1245298850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_60
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 486
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a70b0e2afc16d44be23174a2c16d2f
+      internalID: -1572085487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_61
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 486
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7277a52b5ecfa3048aa648fdc020ffb7
+      internalID: -236416550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_62
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 446
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f15d38bb22be0e6469312e29c70402d5
+      internalID: -1886516333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_63
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 446
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf14a62dbf0b044d9fc462c600e16da
+      internalID: 452450501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_64
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 446
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f7f311a6b5f204daa83448b0b6099a
+      internalID: 2042138096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_65
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 416
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eda9f48f5d416e479ca9c996bcaf9b2
+      internalID: -679850741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_66
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 416
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16da8b035e87402498f4a5688948fa9a
+      internalID: 50377973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_67
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 413
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225dfe383e2531e4d8309cea8c463750
+      internalID: 2000892960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_68
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 415
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de39fddd4f5f91943a9eb95d43138226
+      internalID: 1999137542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_69
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 413
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4faa930ed3503c64cac8ecb426e9c284
+      internalID: -2080771209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_70
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 414
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba4a3409f946a246b263e0b254fbfe5
+      internalID: -924258675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_71
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 415
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3b9592c4c081f4fb9fe1d0baa3d486
+      internalID: -1478685604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_72
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 413
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c20bf1aa03f97df409e03e81ecabbf1b
+      internalID: 1876569938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_73
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 417
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb78c225eb98e964897e0cbb905b221c
+      internalID: 1330248675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_74
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 416
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc7271e3f566e1646917e0e52b97b3c6
+      internalID: -1545395633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_75
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 415
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce99dccbbb01a74b82096b561cd1f94
+      internalID: 1696574131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_76
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 415
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b772aa649c4c514289e69b7e52a1749
+      internalID: -799469164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_77
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 413
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8fdf518bf77b494cad8e702a995ed1b
+      internalID: 1094949531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_78
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 390
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700cbe0d699e331459de98fd013d59c9
+      internalID: -1393824036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_79
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 390
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ada2c917827299458d4ca317bf36872
+      internalID: -1184499621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_80
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 385
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1abee3b4c85af946a3759a61ad9ac3f
+      internalID: 630610167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_81
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 376
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8869d406d3eb10f42a1f404b96b6ed7b
+      internalID: -2030428482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_82
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 381
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d27b4f989f832154e9270c525a244786
+      internalID: -1223732301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_83
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 373
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c2e50d0a5dc444eaae245796e50dde
+      internalID: 587569954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_84
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 352
+        width: 23
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3756332360d762948a967992477af94d
+      internalID: -812555451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_85
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 358
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1dfc1e5770de15499ce50bea4a77ab6
+      internalID: 961259049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_86
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 357
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce3c9240ef38e74b8eed3449119a798
+      internalID: 807539595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_87
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 352
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf2647c1fa32df418b0551beacbb4f1
+      internalID: 1565733545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_88
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 371
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eecdeefb7458f394a8d23cf0397919d1
+      internalID: -1703982024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_89
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 351
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc82ad1807a71a44d89c99b7b40cb646
+      internalID: 1207835629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_90
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 351
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1644b7017b419b84a94a4a857057ee1a
+      internalID: -1349620753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_91
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 351
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2454ac170e6aae43b3c7897c670cc5a
+      internalID: -441617641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_92
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 351
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c04403e90b7c246a7472f29b1e09b4
+      internalID: -889725842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_93
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 351
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e21c978ddf135646b8814c42ec9100e
+      internalID: 254933189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_94
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 351
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cd10edb086c694f95a8025682decd3
+      internalID: -558855078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_95
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 354
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0edd936e56f506a4e8d50414c3b7f39e
+      internalID: 1596322495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_96
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 353
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b67eb7c5340564e8b1d6a5f028470f
+      internalID: 912731290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_97
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 352
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b5859c68e92d9849ad912cc040b7898
+      internalID: -1114873576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_98
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 353
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611b9f44019bba54ebc3d217c42e2342
+      internalID: -1664000732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_99
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 354
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fff4ee4972756c44a81b7e486b6b180
+      internalID: -705525580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_100
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 334
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733ad9f99f417d540a4aae6d0400eee5
+      internalID: 1622278114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_101
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 334
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284177b5917c9cd4d96542eb26c82967
+      internalID: 273904400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_102
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 333
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae230b51be7c3954dab7b4f0c80a7baa
+      internalID: 1165851636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_103
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 335
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 048cdd55f7542c54cb02580d38691f6b
+      internalID: -354831168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_104
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 329
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d131beac1a471a8428c940f2244be663
+      internalID: 418976496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_105
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 329
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b531f283fbe279e40be0336f361b6df7
+      internalID: -545238477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_106
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 329
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0400762bb15f5f49ad816e8e2ae4775
+      internalID: -1234774670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_107
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 329
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c57f365c95c984492d58c6fcc5b7f9
+      internalID: -1391770898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_108
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 329
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366d1e74fc7e1be468f43f219902f992
+      internalID: -947431473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_109
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 317
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998fdd653eb7fb2488ce328d12b2fb77
+      internalID: -1587193713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_110
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 317
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25994d16e6d9aa4e96068aa08af8301
+      internalID: 418582550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_111
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 317
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64a7923a2e41c24895dfc1d89823ecf
+      internalID: -353126069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_112
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 309
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f6b5b091c5c004bb060da5a8587c81
+      internalID: -7184968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_113
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 309
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaaa1ba9d74f1a74388ab322fe7f2e6d
+      internalID: 1278115155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_114
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 309
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a2656fd65c8e24e8aaea71433b0ce4
+      internalID: -142409725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_115
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 263
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8deffdd96c1e1c48b3672c175b1bf4e
+      internalID: -1251559857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_116
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 262
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c42eda985dd607438f003b82e00c0c4
+      internalID: 630877192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_117
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 264
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c0e69d34eed1247b6d0c430b7df50c
+      internalID: -657269489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_118
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 263
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25004f67902cfbd4eb71ea9bc2d4a52f
+      internalID: 1118942985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_119
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 266
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f49d058d28da004ab5d10b2edb72be0
+      internalID: 1993269239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_120
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 264
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faba189b3de8a514f99597676a6b362b
+      internalID: -1094252667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_121
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 262
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbca0de8adb87149a95c3559fc5fd87
+      internalID: 97646755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_122
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097c924803c559840b02499ca0e71f09
+      internalID: -1749235686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_123
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 264
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d5d7f5c11c865b45864a816c0002180
+      internalID: -651050552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_124
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 262
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f18ad5c04bcbb24d8a9814a2e3ee4fb
+      internalID: -273604570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_125
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 262
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3080e2a805358346a6c56b7c342e918
+      internalID: -1715311018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_126
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 264
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d99d305dd97e546459ef75cbdbfc38ac
+      internalID: -89568208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_127
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 262
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573e917c338f3374e9a387068c7c5b9f
+      internalID: 863651900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_128
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 262
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c282a92db4bcad247bbecbdaa99206d0
+      internalID: -412558186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_129
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 262
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d51c1a50ca0e547aefb9ce138d0eef
+      internalID: -1978485157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_130
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 263
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c10f670302f4f2c41bbe6d733e1f7218
+      internalID: 1430184682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_131
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 262
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3b1e95be89c5849b4b0511f7ebf370
+      internalID: 442931266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_132
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 172
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d92c39556ec606c4f857a9e783dce080
+      internalID: 2109654100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_133
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 172
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edc90217608500418191de674985003
+      internalID: -1601128888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_134
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 111
+        width: 48
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66faf9b015184b74e9dedc07c0e05622
+      internalID: 341618693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_135
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 201
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2542e7bb507260f44ad8d18f10e30c5c
+      internalID: 2096571674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_136
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 199
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6052b73bdf357d845bd191f62e9f8a66
+      internalID: 1705514584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_137
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 200
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34d471342d10ae4190882fd3dde53e7
+      internalID: 299934800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_138
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 199
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a60d62484d460b4c85b9bf1a06cd6f5
+      internalID: -82287223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_139
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 200
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff1ebea452c99994c816ef89006a364a
+      internalID: -1169097814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_140
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 175
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4c05e1a02879d4e9a63f1299d6d1da
+      internalID: 1476131257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_141
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 175
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fe6cdf51c0bad4e8ce2ae7935ba558
+      internalID: -612188860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_142
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 175
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56556ab7e283c5e4d9f1e4ff03ceda27
+      internalID: 1840964342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_143
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 172
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31bcf2155154c5c45967c6e123006854
+      internalID: 1845739025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_144
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 115
+        width: 18
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c667bf2b2f33749a2ce102c3ee4179
+      internalID: -412443752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_145
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 115
+        width: 18
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728477d5c40b11843b2334819f7784a5
+      internalID: 274520161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_146
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 151
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2c65ab8ccc51545b4cf09c748c427e
+      internalID: 1047453258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_147
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 130
+        width: 48
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3408158938022ba4ebc197683498d71c
+      internalID: 747413729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_148
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 129
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efbf6407e37b234c81b0e06d83218a7
+      internalID: -24542084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_149
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 130
+        width: 47
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c18a1f67d34ef408ec33a6a73dc6b2
+      internalID: -873288624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_150
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 130
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33824287738294b4f884208b82c3588b
+      internalID: -1848575797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_151
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 123
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c1e430fa295120439aa99fa8c85e9be
+      internalID: 1845105856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_152
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 123
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20f3919aaa8649f4990d8c67c5abd6a8
+      internalID: -778909047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_153
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c83771a23712644394904bb165d1c62
+      internalID: -1886750135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_154
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 113
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e6fa03bdc236b44a3599909b7c745b
+      internalID: 1003252948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_155
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 111
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22815b688b1ce2746b23c4a128f7cf25
+      internalID: 1584402238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_156
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 94
+        width: 48
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4702fef16e01e446ab9223abd24ef83
+      internalID: -506684696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_157
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 93
+        width: 48
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d558acbf4c3f3147abd02380d45e6f8
+      internalID: 875135111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_158
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 94
+        width: 47
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a712393157cb247980a0515b7b495d
+      internalID: 819347826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_159
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 94
+        width: 47
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db44301a8ba77d4aa170430f2913b2f
+      internalID: -1895745107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_160
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 13
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45dd02d92bea0d943b0d44c4f1be6201
+      internalID: 1814620406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_161
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 61
+        width: 40
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e9a8140aaeb3f479d1a513545acd6b
+      internalID: 198903623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_162
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 60
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4cf8df80818f14c848008323b0c935
+      internalID: 162850586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_163
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 61
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be857767e9fc92a42b590a3bc7acddc3
+      internalID: -902406593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_164
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 30
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13beeeddd4d5acd46a663151df992e16
+      internalID: 1280366499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_165
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 30
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8ebd55983836b94fb87c4a3069c0c45
+      internalID: 1273553161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_166
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 21
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bba4bc0ca2b9f43bc186d906e6aea2
+      internalID: 1759858368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_167
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 21
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbee818e941498c49b1e99e4d84e4d97
+      internalID: -1134292266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_168
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 21
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2403048efa777a41a0e33439854330d
+      internalID: 297702251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_169
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 21
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbbbc11f86241b4bbd05ed58f8d96dc
+      internalID: -755471536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: super-mario-world-characters-and-items-sprites-sheet_170
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 21
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 041153f03e7688f428705f38b38f554e
+      internalID: 911369018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 602c9e9a0e8d20149a965bc074e92456
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      super-mario-world-characters-and-items-sprites-sheet_0: 1628362263
+      super-mario-world-characters-and-items-sprites-sheet_1: 1142870716
+      super-mario-world-characters-and-items-sprites-sheet_10: -1993291165
+      super-mario-world-characters-and-items-sprites-sheet_100: 1622278114
+      super-mario-world-characters-and-items-sprites-sheet_101: 273904400
+      super-mario-world-characters-and-items-sprites-sheet_102: 1165851636
+      super-mario-world-characters-and-items-sprites-sheet_103: -354831168
+      super-mario-world-characters-and-items-sprites-sheet_104: 418976496
+      super-mario-world-characters-and-items-sprites-sheet_105: -545238477
+      super-mario-world-characters-and-items-sprites-sheet_106: -1234774670
+      super-mario-world-characters-and-items-sprites-sheet_107: -1391770898
+      super-mario-world-characters-and-items-sprites-sheet_108: -947431473
+      super-mario-world-characters-and-items-sprites-sheet_109: -1587193713
+      super-mario-world-characters-and-items-sprites-sheet_11: -1723294842
+      super-mario-world-characters-and-items-sprites-sheet_110: 418582550
+      super-mario-world-characters-and-items-sprites-sheet_111: -353126069
+      super-mario-world-characters-and-items-sprites-sheet_112: -7184968
+      super-mario-world-characters-and-items-sprites-sheet_113: 1278115155
+      super-mario-world-characters-and-items-sprites-sheet_114: -142409725
+      super-mario-world-characters-and-items-sprites-sheet_115: -1251559857
+      super-mario-world-characters-and-items-sprites-sheet_116: 630877192
+      super-mario-world-characters-and-items-sprites-sheet_117: -657269489
+      super-mario-world-characters-and-items-sprites-sheet_118: 1118942985
+      super-mario-world-characters-and-items-sprites-sheet_119: 1993269239
+      super-mario-world-characters-and-items-sprites-sheet_12: 2135698413
+      super-mario-world-characters-and-items-sprites-sheet_120: -1094252667
+      super-mario-world-characters-and-items-sprites-sheet_121: 97646755
+      super-mario-world-characters-and-items-sprites-sheet_122: -1749235686
+      super-mario-world-characters-and-items-sprites-sheet_123: -651050552
+      super-mario-world-characters-and-items-sprites-sheet_124: -273604570
+      super-mario-world-characters-and-items-sprites-sheet_125: -1715311018
+      super-mario-world-characters-and-items-sprites-sheet_126: -89568208
+      super-mario-world-characters-and-items-sprites-sheet_127: 863651900
+      super-mario-world-characters-and-items-sprites-sheet_128: -412558186
+      super-mario-world-characters-and-items-sprites-sheet_129: -1978485157
+      super-mario-world-characters-and-items-sprites-sheet_13: 1540505735
+      super-mario-world-characters-and-items-sprites-sheet_130: 1430184682
+      super-mario-world-characters-and-items-sprites-sheet_131: 442931266
+      super-mario-world-characters-and-items-sprites-sheet_132: 2109654100
+      super-mario-world-characters-and-items-sprites-sheet_133: -1601128888
+      super-mario-world-characters-and-items-sprites-sheet_134: 341618693
+      super-mario-world-characters-and-items-sprites-sheet_135: 2096571674
+      super-mario-world-characters-and-items-sprites-sheet_136: 1705514584
+      super-mario-world-characters-and-items-sprites-sheet_137: 299934800
+      super-mario-world-characters-and-items-sprites-sheet_138: -82287223
+      super-mario-world-characters-and-items-sprites-sheet_139: -1169097814
+      super-mario-world-characters-and-items-sprites-sheet_14: -327546561
+      super-mario-world-characters-and-items-sprites-sheet_140: 1476131257
+      super-mario-world-characters-and-items-sprites-sheet_141: -612188860
+      super-mario-world-characters-and-items-sprites-sheet_142: 1840964342
+      super-mario-world-characters-and-items-sprites-sheet_143: 1845739025
+      super-mario-world-characters-and-items-sprites-sheet_144: -412443752
+      super-mario-world-characters-and-items-sprites-sheet_145: 274520161
+      super-mario-world-characters-and-items-sprites-sheet_146: 1047453258
+      super-mario-world-characters-and-items-sprites-sheet_147: 747413729
+      super-mario-world-characters-and-items-sprites-sheet_148: -24542084
+      super-mario-world-characters-and-items-sprites-sheet_149: -873288624
+      super-mario-world-characters-and-items-sprites-sheet_15: -2000443411
+      super-mario-world-characters-and-items-sprites-sheet_150: -1848575797
+      super-mario-world-characters-and-items-sprites-sheet_151: 1845105856
+      super-mario-world-characters-and-items-sprites-sheet_152: -778909047
+      super-mario-world-characters-and-items-sprites-sheet_153: -1886750135
+      super-mario-world-characters-and-items-sprites-sheet_154: 1003252948
+      super-mario-world-characters-and-items-sprites-sheet_155: 1584402238
+      super-mario-world-characters-and-items-sprites-sheet_156: -506684696
+      super-mario-world-characters-and-items-sprites-sheet_157: 875135111
+      super-mario-world-characters-and-items-sprites-sheet_158: 819347826
+      super-mario-world-characters-and-items-sprites-sheet_159: -1895745107
+      super-mario-world-characters-and-items-sprites-sheet_16: -1305473151
+      super-mario-world-characters-and-items-sprites-sheet_160: 1814620406
+      super-mario-world-characters-and-items-sprites-sheet_161: 198903623
+      super-mario-world-characters-and-items-sprites-sheet_162: 162850586
+      super-mario-world-characters-and-items-sprites-sheet_163: -902406593
+      super-mario-world-characters-and-items-sprites-sheet_164: 1280366499
+      super-mario-world-characters-and-items-sprites-sheet_165: 1273553161
+      super-mario-world-characters-and-items-sprites-sheet_166: 1759858368
+      super-mario-world-characters-and-items-sprites-sheet_167: -1134292266
+      super-mario-world-characters-and-items-sprites-sheet_168: 297702251
+      super-mario-world-characters-and-items-sprites-sheet_169: -755471536
+      super-mario-world-characters-and-items-sprites-sheet_17: 664275537
+      super-mario-world-characters-and-items-sprites-sheet_170: 911369018
+      super-mario-world-characters-and-items-sprites-sheet_18: -2093754596
+      super-mario-world-characters-and-items-sprites-sheet_19: 564882597
+      super-mario-world-characters-and-items-sprites-sheet_2: -112204810
+      super-mario-world-characters-and-items-sprites-sheet_20: 1013669802
+      super-mario-world-characters-and-items-sprites-sheet_21: 1845345863
+      super-mario-world-characters-and-items-sprites-sheet_22: -361744051
+      super-mario-world-characters-and-items-sprites-sheet_23: -641182252
+      super-mario-world-characters-and-items-sprites-sheet_24: 2105537670
+      super-mario-world-characters-and-items-sprites-sheet_25: -177030418
+      super-mario-world-characters-and-items-sprites-sheet_26: 126197481
+      super-mario-world-characters-and-items-sprites-sheet_27: 1472925680
+      super-mario-world-characters-and-items-sprites-sheet_28: -145001526
+      super-mario-world-characters-and-items-sprites-sheet_29: -1434323855
+      super-mario-world-characters-and-items-sprites-sheet_3: 1211713566
+      super-mario-world-characters-and-items-sprites-sheet_30: -1096301968
+      super-mario-world-characters-and-items-sprites-sheet_31: 308498742
+      super-mario-world-characters-and-items-sprites-sheet_32: 1679372822
+      super-mario-world-characters-and-items-sprites-sheet_33: -1962034423
+      super-mario-world-characters-and-items-sprites-sheet_34: 573551911
+      super-mario-world-characters-and-items-sprites-sheet_35: -62024075
+      super-mario-world-characters-and-items-sprites-sheet_36: 145059837
+      super-mario-world-characters-and-items-sprites-sheet_37: -1596058545
+      super-mario-world-characters-and-items-sprites-sheet_38: 199841589
+      super-mario-world-characters-and-items-sprites-sheet_39: 213895655
+      super-mario-world-characters-and-items-sprites-sheet_4: -1950655653
+      super-mario-world-characters-and-items-sprites-sheet_40: -1178988799
+      super-mario-world-characters-and-items-sprites-sheet_41: 354191876
+      super-mario-world-characters-and-items-sprites-sheet_42: 768497063
+      super-mario-world-characters-and-items-sprites-sheet_43: -894739794
+      super-mario-world-characters-and-items-sprites-sheet_44: 915470600
+      super-mario-world-characters-and-items-sprites-sheet_45: 215105623
+      super-mario-world-characters-and-items-sprites-sheet_46: 667146390
+      super-mario-world-characters-and-items-sprites-sheet_47: -752477338
+      super-mario-world-characters-and-items-sprites-sheet_48: -1890094538
+      super-mario-world-characters-and-items-sprites-sheet_49: -923096736
+      super-mario-world-characters-and-items-sprites-sheet_5: 1658511798
+      super-mario-world-characters-and-items-sprites-sheet_50: -255088045
+      super-mario-world-characters-and-items-sprites-sheet_51: -1569235286
+      super-mario-world-characters-and-items-sprites-sheet_52: -1974537045
+      super-mario-world-characters-and-items-sprites-sheet_53: 1661682422
+      super-mario-world-characters-and-items-sprites-sheet_54: -1116978905
+      super-mario-world-characters-and-items-sprites-sheet_55: 1633058685
+      super-mario-world-characters-and-items-sprites-sheet_56: -2091025142
+      super-mario-world-characters-and-items-sprites-sheet_57: -513417805
+      super-mario-world-characters-and-items-sprites-sheet_58: -561162712
+      super-mario-world-characters-and-items-sprites-sheet_59: 1245298850
+      super-mario-world-characters-and-items-sprites-sheet_6: 1784008180
+      super-mario-world-characters-and-items-sprites-sheet_60: -1572085487
+      super-mario-world-characters-and-items-sprites-sheet_61: -236416550
+      super-mario-world-characters-and-items-sprites-sheet_62: -1886516333
+      super-mario-world-characters-and-items-sprites-sheet_63: 452450501
+      super-mario-world-characters-and-items-sprites-sheet_64: 2042138096
+      super-mario-world-characters-and-items-sprites-sheet_65: -679850741
+      super-mario-world-characters-and-items-sprites-sheet_66: 50377973
+      super-mario-world-characters-and-items-sprites-sheet_67: 2000892960
+      super-mario-world-characters-and-items-sprites-sheet_68: 1999137542
+      super-mario-world-characters-and-items-sprites-sheet_69: -2080771209
+      super-mario-world-characters-and-items-sprites-sheet_7: 804196299
+      super-mario-world-characters-and-items-sprites-sheet_70: -924258675
+      super-mario-world-characters-and-items-sprites-sheet_71: -1478685604
+      super-mario-world-characters-and-items-sprites-sheet_72: 1876569938
+      super-mario-world-characters-and-items-sprites-sheet_73: 1330248675
+      super-mario-world-characters-and-items-sprites-sheet_74: -1545395633
+      super-mario-world-characters-and-items-sprites-sheet_75: 1696574131
+      super-mario-world-characters-and-items-sprites-sheet_76: -799469164
+      super-mario-world-characters-and-items-sprites-sheet_77: 1094949531
+      super-mario-world-characters-and-items-sprites-sheet_78: -1393824036
+      super-mario-world-characters-and-items-sprites-sheet_79: -1184499621
+      super-mario-world-characters-and-items-sprites-sheet_8: -313765641
+      super-mario-world-characters-and-items-sprites-sheet_80: 630610167
+      super-mario-world-characters-and-items-sprites-sheet_81: -2030428482
+      super-mario-world-characters-and-items-sprites-sheet_82: -1223732301
+      super-mario-world-characters-and-items-sprites-sheet_83: 587569954
+      super-mario-world-characters-and-items-sprites-sheet_84: -812555451
+      super-mario-world-characters-and-items-sprites-sheet_85: 961259049
+      super-mario-world-characters-and-items-sprites-sheet_86: 807539595
+      super-mario-world-characters-and-items-sprites-sheet_87: 1565733545
+      super-mario-world-characters-and-items-sprites-sheet_88: -1703982024
+      super-mario-world-characters-and-items-sprites-sheet_89: 1207835629
+      super-mario-world-characters-and-items-sprites-sheet_9: -1259213644
+      super-mario-world-characters-and-items-sprites-sheet_90: -1349620753
+      super-mario-world-characters-and-items-sprites-sheet_91: -441617641
+      super-mario-world-characters-and-items-sprites-sheet_92: -889725842
+      super-mario-world-characters-and-items-sprites-sheet_93: 254933189
+      super-mario-world-characters-and-items-sprites-sheet_94: -558855078
+      super-mario-world-characters-and-items-sprites-sheet_95: 1596322495
+      super-mario-world-characters-and-items-sprites-sheet_96: 912731290
+      super-mario-world-characters-and-items-sprites-sheet_97: -1114873576
+      super-mario-world-characters-and-items-sprites-sheet_98: -1664000732
+      super-mario-world-characters-and-items-sprites-sheet_99: -705525580
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
